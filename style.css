@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: rgb(32, 22, 11);
+    background: rgb(200, 233, 235);
 }
 
 .slider-container{
@@ -30,7 +30,7 @@ body{
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    color: rgb(32, 22, 11);
+    color: rgb(180, 237, 240);
     font-size: 40px;
     opacity: .7;
     cursor: pointer;
